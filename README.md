@@ -17,7 +17,7 @@ A aplicação permite ao usuário digitar um **texto-alvo (target)** e um **padr
 
 ## 🚀 Tecnologias Utilizadas
 - **HTML5** – Estrutura da interface.
-- **CSS3** – Estilização e destaques visuais.
+- **CSS3** (bootstrap) – Estilização e destaques visuais.
 - **JavaScript (ES6)** – Manipulação do DOM, execução de Regex e lógica principal.
 
 ---
